@@ -1,0 +1,15 @@
+miniprogram_npm
+mock
+lib
+miniprogram/node_modules
+*.wxs
+*.wxml
+*.wxss
+*.json
+*.css
+*.min.js
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
